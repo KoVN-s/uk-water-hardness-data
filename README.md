@@ -42,6 +42,8 @@ curl -O https://raw.githubusercontent.com/PHONGUIT22/uk-water-hardness-dataset/m
 - **Aggressively Hard Water (> 280 PPM):** London, Thames Valley (Reading, Oxford), East Anglia (Norwich, Cambridge), and South East England (Brighton, Southampton). Check the [London Postcode Hardness Guide](https://waterhardness.uk/guides/london-water-hardness-by-postcode).
 - **Interactive Heatmap:** Explore the [UK Water Hardness Map](https://waterhardness.uk/guides/uk-water-hardness-map-guide).
 ---
+<a href="https://docs.google.com/document/d/1AcuV34zEU8RALatHzYOqepEBq_1kpauNBgDr69eG-p8/" target="_blank">
+        <img src="https://img.shields.io/badge/Technical_Paper-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs Whitepaper" />
 ## 📜 Attribution & Citation Policy
 This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 If you use this dataset in your research, academic papers, commercial products, or web applications, you **MUST** provide attribution with a backlink to the primary project homepage:
